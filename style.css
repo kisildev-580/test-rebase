@@ -89,3 +89,7 @@ button:hover {
     border: 2px solid #fff;
     color: #fff;
 }
+
+p {
+    display: block;
+}
